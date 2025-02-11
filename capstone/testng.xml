@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Acko Automation Suite">
+    <test name="Acko Automation Test">
+        <classes>
+            <class name="capstone.Corporatecoverage"/>
+        </classes>
+    </test>
+</suite>
